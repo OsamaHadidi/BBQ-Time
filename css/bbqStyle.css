@@ -1,0 +1,59 @@
+body{
+    height: 100%;
+    font-family: 'Lobster', cursive;
+
+}
+
+video{
+    position: fixed;
+    top: 1%;
+    left: 50%;
+    margin-top: -10%;
+    margin-left: -50%;
+    z-index: 1;
+}
+
+a{
+    display: inline-block;
+    padding: 12px 48px;
+    border: solid 4px red;
+    background-color:black;
+    text-decoration: none;
+    font-size: 24px;
+    color: red; 
+}
+
+
+h1{
+   
+    margin-bottom: 25px;
+    color:orangered;
+    font-size: 44px;
+}
+
+p{
+    color: darkorange;
+
+}
+
+.header{ 
+    padding: 10px;
+    background-color: black;
+    opacity: 0.7;
+    position: relative;
+    z-index: 2;
+    margin:0 auto;
+    max-width: 720px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section{
+    padding: 10px;
+    opacity: 0.7;
+    position: relative;
+    z-index: 2;
+    margin:0 auto;
+    max-width: 720px;
+    text-align: center;
+}    
