@@ -1,2 +1,1 @@
-# CV
-My CV :)
+# BBQ- HTML CSS JS ( Self Learning Task )
